@@ -2,7 +2,7 @@ import cv2
 import time
 import numpy as np
 capture_video = cv2.VideoCapture("sample.mp4")
-time.sleep(1)  
+time.sleep(2)  
 count = 0 
 background = 0 
 for i in range(60): 

@@ -1,7 +1,7 @@
 import cv2
 import time
 import numpy as np
-capture_video = cv2.VideoCapture("video.mp4")
+capture_video = cv2.VideoCapture("sample.mp4")
 time.sleep(1)  
 count = 0 
 background = 0 
